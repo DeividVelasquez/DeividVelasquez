@@ -39,11 +39,16 @@
 </p>
 
 ##
-<p align="center">
-    <img src="https://github.com/DeividVelasquez/DeividVelasquez/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
-</p>
+<div align="center">
+  <a href="https://github.com/DeividVelasquez">
+    <img src="https://raw.githubusercontent.com/Andre230906/Andre230906/4981288992de3ebc181766d46340378083de7e28/grid-snake.svg" alt="snake">
+  </a>
+</div>
 
-## <picture><img src = "https://i.pinimg.com/originals/3c/d9/c4/3cd9c417e306464378e1011577f4b68f.gif?raw=true" width = 50px></picture> GitHub Stats
+## 
+
+### <picture><img src = "https://i.pinimg.com/originals/3c/d9/c4/3cd9c417e306464378e1011577f4b68f.gif?raw=true" width = 50px></picture> GitHub Stats
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 <table align="center">
     <tr>
         <td align="center">
