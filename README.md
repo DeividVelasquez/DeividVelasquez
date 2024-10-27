@@ -19,7 +19,7 @@
 
 ### 🤝 **Connect with me**
   - 💬 Ask me about anything; I love helping and sharing ideas!
-  - 📫 Contact: [deividvelasquez122@gmail.com](mailto:deividvelasquez122@gmail.com)
+  - 📫 Contact: [Linkedin](mailto:www.linkedin.com/in/deivid-velasquez)
 
 <p align="center"><i>✨"It's not about being the best, but about being better than yesterday."✨</i></p>
 
