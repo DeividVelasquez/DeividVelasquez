@@ -6,7 +6,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 
-<img align="right" height="auto" width="250px" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
+<img align="right" height="auto" width="320px" alt="GIF" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
 
 - 🎓 **Back-end Developer** with a passion for technology and continuous learning
 - 📊 **Interests**: Machine Learning, Web and Mobile Development, Databases
@@ -17,9 +17,9 @@
   - **Backend**: SpringBoot
 - 🌱 **Learning** Flutter
 
-## 🤝 Connect with me
-- 💬 Ask me about anything; I love helping and sharing ideas!
-- 📫 Contact: [deividvelasquez122@gmail.com](mailto:deividvelasquez122@gmail.com)
+- 🤝 **Connect with me**
+  - 💬 Ask me about anything; I love helping and sharing ideas!
+  - 📫 Contact: [deividvelasquez122@gmail.com](mailto:deividvelasquez122@gmail.com)
 
 
 
