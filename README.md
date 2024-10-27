@@ -17,9 +17,66 @@
   - **Backend**: SpringBoot
 - 🌱 **Learning** Flutter
 
-- 🤝 **Connect with me**
+### 🤝 **Connect with me**
   - 💬 Ask me about anything; I love helping and sharing ideas!
   - 📫 Contact: [deividvelasquez122@gmail.com](mailto:deividvelasquez122@gmail.com)
+
+<p align="center"><i>✨"It's not about being the best, but about being better than yesterday."✨</i></p>
+
+## <picture><img src = "https://media.tenor.com/HEA8q2baNZAAAAAi/minecraft.gif?raw=true" width = 50px></picture> Languages and Tools
+
+<p align="center">
+<img style="height: 4rem;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"> 
+<img style="height: 4rem;" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"> 
+<img style="height: 4rem;" src="https://user-images.githubusercontent.com/76852813/172720095-d75caaaa-c8b8-497e-a1bf-54720da5f9ed.svg">
+<img style="height: 4rem;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png">
+<img style="height: 4rem;" src="https://user-images.githubusercontent.com/76852813/172716937-4574740e-2d2e-4326-af3b-4a42bad058c1.svg"> 
+<img style="height: 4rem;" src="https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg">
+<img style="height: 4rem;" src="https://user-images.githubusercontent.com/76852813/172722126-2495793f-c4f3-43cc-bfb2-14e1d6f4d3a2.svg"> 
+<img style="height: 4rem;" src="https://user-images.githubusercontent.com/76852813/172732353-d8b662eb-8f1c-453a-82f4-00132b440aaa.svg"> 
+<img style="height: 4rem;" src="https://user-images.githubusercontent.com/76852813/172722224-2df3bb34-d501-4daf-aa6d-af8c18335202.svg"> 
+<img style="height: 4rem;" src="https://user-images.githubusercontent.com/76852813/172722742-4c84455a-830a-4f69-8dcd-ac9437e52251.svg">
+</p>
+
+##
+<p align="center">
+    <img src="https://github.com/DeividVelasquez/DeividVelasquez/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
+</p>
+
+## <picture><img src = "https://i.pinimg.com/originals/3c/d9/c4/3cd9c417e306464378e1011577f4b68f.gif?raw=true" width = 50px></picture> GitHub Stats
+<table align="center">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/DeividVelasquez">
+                <img src="https://github-readme-stats.vercel.app/api?username=DeividVelasquez&show_icons=true&theme=algolia" alt="My Github Stats" />
+            </a>
+        </td>
+        <td rowspan="2" align="center">
+            <a href="https://github.com/DeividVelasquez">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividVelasquez&langs_count=8&theme=algolia" alt="Top Languages" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/DeividVelasquez">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeividVelasquez&theme=algolia" alt="My GitHub Streak" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+            <a href="https://github.com/DeividVelasquez">
+                <img src="https://komarev.com/ghpvc/?username=DeividVelasquez&style=flat-square" alt="Profile Views" />
+            </a>
+        </td>
+    </tr>
+</table>
+
+
+
+
+
 
 
 
